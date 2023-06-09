@@ -7,5 +7,3 @@ let profile2: {
   name: string;
 } = { name: 'Ham' };
 profile2 = { name: 'Numo' };
-
-// 閏年を計算する
