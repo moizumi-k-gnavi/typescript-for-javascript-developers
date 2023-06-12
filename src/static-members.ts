@@ -7,7 +7,7 @@ class Me {
 
   static work() {
     //     "Hey, guys! This is Atsushi! Are you interrested in TypeScript? Let's dive into TypeScript!";
-    return `Hey, guys! This is ${Me.firstName} Are you interrested in TypeScript? Let's dive into TypeScript!`;
+    return `Hey, guys! This is ${this.firstName} Are you interrested in TypeScript? Let's dive into TypeScript!`;
   }
 }
 
